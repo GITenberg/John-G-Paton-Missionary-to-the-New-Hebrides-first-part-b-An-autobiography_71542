@@ -1,5 +1,8 @@
 _repo: John-G-Paton-Missionary-to-the-New-Hebrides-first-part-b-An-autobiography_71542
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71542-h/images/cover.jpg
 creator:
   author:
     agent_name: Paton, John G.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '33084'
     url: http://www.gutenberg.org/2009/agents/33084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71542#John-G-Paton-Missionary-to-the-New-Hebrides-first-part-b-An-autobiography
 gutenberg_issued: '2023-09-02'
 identifiers:
   gutenberg: '71542'
